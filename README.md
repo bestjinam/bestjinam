@@ -7,10 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-
-프로필 꾸미 되게 해조라 ㅠ
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestjinam&show_icons=true&theme=cobalt)
 
 <!---
