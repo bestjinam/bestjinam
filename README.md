@@ -2,9 +2,9 @@
 ![42](https://badgen.net/badge/Born2Code/jinam/gray?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbestjinam&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-- 👋 Hi, I’m @bestjinam
-- 👀 I’m interested in games
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m jinam
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. ggul_jam@icloud.com
 
