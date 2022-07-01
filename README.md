@@ -6,7 +6,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .. ggul_jam@icloud.com
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
