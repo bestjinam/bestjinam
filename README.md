@@ -14,6 +14,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestjinam&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jinam's 42 stats](https://badge42.vercel.app/api/v2/cl5ndb2w1003509l7uhsiooz8/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+
+[![jinam's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5ndb2w1003509l7uhsiooz8/project/2668209)](https://github.com/JaeSeoKim/badge42)
 </div>
 
 <!---
